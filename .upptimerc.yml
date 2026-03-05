@@ -7,9 +7,5 @@ sites:
     url: https://yokkin.com
   - name: iigau lab
     url: https://akkoma.yokkin.com
-  - name: Gitea
-    url: https://git.yokkin.com
-  - name: Nextcloud
-    url: https://nextcloud.yokkin.com
   - name: sanctunes
     url: https://sanctunes.yokkin.com
