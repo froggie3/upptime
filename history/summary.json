@@ -6,8 +6,8 @@
     "slug": "yokkin-com",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 983,
@@ -22,7 +22,8 @@
       "2026-02-20": 232,
       "2026-02-22": 304,
       "2026-04-29": 450,
-      "2026-04-28": 136
+      "2026-04-28": 136,
+      "2026-07-29": 1
     }
   },
   {
@@ -30,16 +31,16 @@
     "url": "https://akkoma.yokkin.com",
     "icon": "https://icons.duckduckgo.com/ip3/akkoma.yokkin.com.ico",
     "slug": "iigau-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.70%",
     "time": 570,
-    "timeDay": 486,
-    "timeWeek": 590,
-    "timeMonth": 594,
+    "timeDay": 423,
+    "timeWeek": 562,
+    "timeMonth": 587,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2025-10-25": 27,
@@ -51,7 +52,8 @@
       "2026-04-29": 450,
       "2026-04-28": 136,
       "2026-07-18": 130,
-      "2026-07-20": 201
+      "2026-07-20": 201,
+      "2026-07-29": 0
     }
   },
   {
@@ -59,17 +61,17 @@
     "url": "https://sanctunes.yokkin.com",
     "icon": "https://icons.duckduckgo.com/ip3/sanctunes.yokkin.com.ico",
     "slug": "sanctunes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.25%",
     "time": 799,
-    "timeDay": 527,
-    "timeWeek": 645,
-    "timeMonth": 735,
-    "timeYear": 792,
+    "timeDay": 414,
+    "timeWeek": 602,
+    "timeMonth": 721,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2025-10-25": 26,
       "2025-11-18": 127,
@@ -80,7 +82,8 @@
       "2026-02-23": 1440,
       "2026-02-22": 305,
       "2026-04-29": 450,
-      "2026-04-28": 136
+      "2026-04-28": 136,
+      "2026-07-29": 0
     }
   }
 ]
