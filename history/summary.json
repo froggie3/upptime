@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 905,
-    "timeDay": 909,
-    "timeWeek": 798,
+    "timeDay": 850,
+    "timeWeek": 818,
     "timeMonth": 880,
     "timeYear": 899,
     "dailyMinutesDown": {
@@ -31,13 +31,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/akkoma.yokkin.com.ico",
     "slug": "iigau-lab",
     "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "54.25%",
-    "uptimeWeek": "89.26%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.49%",
+    "uptimeDay": "52.07%",
+    "uptimeWeek": "87.11%",
+    "uptimeMonth": "97.03%",
+    "uptimeYear": "99.39%",
     "time": 574,
-    "timeDay": 280,
+    "timeDay": 299,
     "timeWeek": 418,
     "timeMonth": 542,
     "timeYear": 584,
@@ -55,7 +55,7 @@
       "2026-07-29": 351,
       "2026-10-06": 423,
       "2026-10-10": 659,
-      "2026-10-11": 0
+      "2026-10-11": 218
     }
   },
   {
@@ -70,8 +70,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
     "time": 753,
-    "timeDay": 543,
-    "timeWeek": 574,
+    "timeDay": 554,
+    "timeWeek": 583,
     "timeMonth": 633,
     "timeYear": 784,
     "dailyMinutesDown": {
