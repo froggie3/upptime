@@ -30,17 +30,17 @@
     "url": "https://akkoma.yokkin.com",
     "icon": "https://icons.duckduckgo.com/ip3/akkoma.yokkin.com.ico",
     "slug": "iigau-lab",
-    "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "52.07%",
-    "uptimeWeek": "87.11%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "99.39%",
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "52.08%",
+    "uptimeWeek": "85.75%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "99.36%",
     "time": 574,
-    "timeDay": 299,
-    "timeWeek": 418,
-    "timeMonth": 542,
-    "timeYear": 584,
+    "timeDay": 317,
+    "timeWeek": 416,
+    "timeMonth": 538,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2025-10-25": 27,
       "2025-11-18": 199,
@@ -55,7 +55,7 @@
       "2026-07-29": 351,
       "2026-10-06": 423,
       "2026-10-10": 659,
-      "2026-10-11": 218
+      "2026-10-11": 354
     }
   },
   {
