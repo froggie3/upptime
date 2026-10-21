@@ -4,17 +4,17 @@
     "url": "https://yokkin.com",
     "icon": "https://icons.duckduckgo.com/ip3/yokkin.com.ico",
     "slug": "yokkin-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 904,
-    "timeDay": 733,
-    "timeWeek": 784,
-    "timeMonth": 871,
-    "timeYear": 899,
+    "time": 902,
+    "timeDay": 545,
+    "timeWeek": 730,
+    "timeMonth": 854,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2025-10-25": 27,
       "2025-11-18": 70,
@@ -22,7 +22,8 @@
       "2026-02-22": 304,
       "2026-04-29": 450,
       "2026-04-28": 136,
-      "2026-07-29": 337
+      "2026-07-29": 337,
+      "2026-10-21": 0
     }
   },
   {
